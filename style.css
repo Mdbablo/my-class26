@@ -1,0 +1,44 @@
+body{
+    background: #ddd;
+}
+/*.box {
+    width: 750px;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}*/
+.head-1{
+    background-image: url(./flag.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head-2{
+    background-color: #007814;
+    margin-top: -7px;
+}
+.head-3{
+   background-color:#67B061;
+   margin-top: -7px;
+
+}
+.qwe{
+    
+}
+/*.box1{
+    border-radius: 5px;
+    border:1px solid;
+    padding:0px 3px;
+    margin-bottom: 5px;
+    background-color: #F4F0F2;
+    border: 1px solid #999;
+}*/
+.card{
+    width: 780px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.iop img{
+    height: 30px;
+}
